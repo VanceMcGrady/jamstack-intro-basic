@@ -1,4 +1,4 @@
-# example netlify.toml
+
 [build]
   command = "yarn run build"
   functions = "C:\Users\vmcgrady\Documents\repositories\jamstack-intro\basic\netlify\functions"
